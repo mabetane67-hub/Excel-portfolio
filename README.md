@@ -2,7 +2,7 @@
 
 ## Projects
 
-###Bike Sales Dashboard (Excel)
+### Bike Sales Dashboard (Excel)
 
 A pivot-table-driven dashboard exploring who buys bikes and why, built from a 1,000-row customer dataset in Excel.
 <img width="1232" height="952" alt="image" src="https://github.com/user-attachments/assets/f92c4dc8-2e8b-486d-813c-d4931074dd29" />
