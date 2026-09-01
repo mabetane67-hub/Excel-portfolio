@@ -16,8 +16,10 @@ Dashboard:	The three PivotCharts combined into one view, with slicers to filter 
 
 Questions this dashboard answers:
 
--Does income differ between buyers and non-buyers?
+-Does income differ between buyers and non-buyers? 
+
 -Does commute distance affect the chance someone buys a bike?
+
 -Which age group buys the most?
 
 Key findings (full 1,000-customer dataset)
