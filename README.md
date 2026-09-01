@@ -9,9 +9,9 @@ Cleaned a 1,000-row customer dataset and engineered an age-bracket field with a 
 
 ## Tools & Skills 
 
-
-Excel: PivotTables, PivotCharts, IFS formulas, slicers
-Data cleaning: feature engineering, categorical bucketing
+  
+- Excel: PivotTables, PivotCharts, IFS formulas, slicers
+- Data cleaning: feature engineering, categorical bucketing
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-betane-598baa390)
